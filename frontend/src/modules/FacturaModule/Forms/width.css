@@ -1,0 +1,6 @@
+/* custom-styles.css */
+@media screen and (max-width: 768px) {
+    .mobile-full-width {
+        width: 100%;
+    }
+}

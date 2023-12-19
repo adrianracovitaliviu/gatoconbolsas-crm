@@ -1,0 +1,51 @@
+[
+  {
+    "emailKey": "email_Factura_default",
+    "emailName":"Email de Factura",
+    "emailSubject":"Factura - El Gato Con Bolsas",
+    "emailBody": "<p>email_Factura_default</p>",
+    "emailVariables": ["name","time"]
+  },
+  {
+    "emailKey": "email_Albaran_default",
+    "emailName":"Email Albarán",
+    "emailSubject":"Albarán",
+    "emailBody": "<p>email_Albaran_default</p>",
+    "emailVariables": ["name","time"]
+  },
+  {
+    "emailKey": "email_offer_default",
+    "emailName":"Email Gastos",
+    "emailSubject":"Gasto - El Gato con Bolsas",
+    "emailBody": "<p>email_offer_default</p>",
+    "emailVariables": []
+  },
+  {
+    "emailKey": "email_payment_receipt_default",
+    "emailName":"Email de Pago",
+    "emailSubject":"Pago - El Gato con Bolsas",
+    "emailBody": "<p>email_payment_receipt_default</p>",
+    "emailVariables": ["name","time"]
+  },
+  {
+    "emailKey": "email_signup_email_confirm_default",
+    "emailName":"Confirmación de registro",
+    "emailSubject":"Confirmación de registro - El Gato con Bolsas",
+    "emailBody": "<p>email_signup_email_confirm_default</p>",
+    "emailVariables": ["name"]
+  },
+  {
+    "emailKey": "email_reset_password_default",
+    "emailName":"Restablecimiento de Contraseña",
+    "emailSubject":"Restablecimiento de Contraseña - El Gato con Bolsas",
+    "emailBody": "<p>email_reset_password_default</p>",
+    "emailVariables": ["name"]
+  },
+  {
+    "emailKey": "welcome_email_default",
+    "emailName":"Email Bienvenida",
+    "emailSubject":"Bienvenido - El Gato con Bolsas",
+    "emailBody": "<p>welcome_email</p>",
+    "emailVariables":["name"]
+  }
+]

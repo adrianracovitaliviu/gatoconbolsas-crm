@@ -1,0 +1,51 @@
+[
+  {
+    "settingCategory": "finance_settings",
+    "settingKey": "currency_list",
+    "settingValue": ["eur", "usd", "gpd", "inr", "dzd", "cad"],
+    "valueType": "array",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "finance_settings",
+    "settingKey": "last_Factura_number",
+    "settingValue": 1,
+    "valueType": "number",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "finance_settings",
+    "settingKey": "last_Albaran_number",
+    "settingValue": 1,
+    "valueType": "number",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "finance_settings",
+    "settingKey": "last_offer_number",
+    "settingValue": 1,
+    "valueType": "number",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "finance_settings",
+    "settingKey": "current_Factura_year",
+    "settingValue": 2023,
+    "valueType": "number",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "finance_settings",
+    "settingKey": "current_Albaran_year",
+    "settingValue": 2023,
+    "valueType": "number",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "finance_settings",
+    "settingKey": "current_offer_year",
+    "settingValue": 2023,
+    "valueType": "number",
+    "isCoreSetting": true
+  }
+]
